@@ -2,7 +2,7 @@
 
 [![Build and Push Container](https://github.com/buluma/docker-fedora35-ansible/actions/workflows/build.yml/badge.svg)](https://github.com/buluma/docker-fedora35-ansible/actions/workflows/build.yml) [![Docker pulls](https://img.shields.io/docker/pulls/buluma/docker-fedora35-ansible)](https://hub.docker.com/r/buluma/docker-fedora35-ansible/)
 
-Fedora 34 Docker container for Ansible playbook and role testing.
+Fedora 35 Docker container for Ansible playbook and role testing.
 
 ## Tags
 
